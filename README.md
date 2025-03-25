@@ -11,6 +11,6 @@ If you believe you should have access or would like to learn more about our proj
 
 
 🔒 **Visibility:** Members-only  
-📬 **Need access?** Contact us via internal channels or email.  
+📬 **Need access?** Contact us via internal channels or email. `mingo.atlas@gmail.com`  
 📁 **Repositories:** Hidden from public view
 
